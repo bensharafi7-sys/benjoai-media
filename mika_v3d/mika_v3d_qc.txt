@@ -1,0 +1,9 @@
+mika_v3d QC — 2026-11-03 01:15 Asia/Jerusalem
+Video: v3c_nosubs picture (no old subs), 1080x1920, 31.70s, no source audio
+VO: vo_shira_mika_v3_spliced.mp3
+Bed: bed_sol_v6_b_40s.mp3 (take B, interim; strings bed not delivered at encode time) -9.5dB + sidechain duck
+Loudness: -15.5 LUFS integrated, true peak -1.9 dBFS
+Subs: subs_mika_v3d.ass — Heebo Bold 96, cream &H00E6F0F5, outline 6 dark, shadow 4, MarginV 430, fade 220ms, blur 0.8
+RTL fix: U+200F after the "…" in «הַקּוֹל שֶׁל אִמָּא…» (the only ellipsis); still qc_v3d/ellipsis_crop_9.0.png shows … on LEFT (correct end)
+Father/pride lines unchanged: «וְאַבָּא לוֹחֵשׁ לָכֶם מִלְּמַעְלָה:» / «אַתָּה הַגַּאֲוָה שֶׁלִּי.»
+Last line split to 2 lines.

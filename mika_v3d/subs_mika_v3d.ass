@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Reel,Heebo,96,&H00E6F0F5,&H00E6F0F5,&H00182028,&H8C000000,-1,0,0,0,100,100,1,0,1,6,4,2,80,80,430,177
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.30,Reel,,0,0,0,,{\fad(220,220)\blur0.8}עִצְרוּ רֶגַע.
+Dialogue: 0,0:00:01.70,0:00:04.45,Reel,,0,0,0,,{\fad(220,220)\blur0.8}מָה הֱיִיתֶם נוֹתְנִים\Nכְּדֵי לִשְׁמוֹעַ אוֹתָם שׁוּב
+Dialogue: 0,0:00:04.70,0:00:06.45,Reel,,0,0,0,,{\fad(220,220)\blur0.8}בַּיּוֹם הֲכִי גָּדוֹל שֶׁלָּכֶם.
+Dialogue: 0,0:00:06.80,0:00:08.00,Reel,,0,0,0,,{\fad(220,220)\blur0.8}מִתַּחַת לַחֻפָּה.
+Dialogue: 0,0:00:08.35,0:00:09.60,Reel,,0,0,0,,{\fad(220,220)\blur0.8}הַקּוֹל שֶׁל אִמָּא…‏
+Dialogue: 0,0:00:09.80,0:00:10.95,Reel,,0,0,0,,{\fad(220,220)\blur0.8}שֶׁאֵינֶנָּה כָּאן.
+Dialogue: 0,0:00:11.15,0:00:12.60,Reel,,0,0,0,,{\fad(220,220)\blur0.8}הִיא מְבָרֶכֶת אֶתְכֶם.
+Dialogue: 0,0:00:12.70,0:00:14.10,Reel,,0,0,0,,{\fad(220,220)\blur0.8}הִיא אוֹהֶבֶת אֶתְכֶם.
+Dialogue: 0,0:00:14.20,0:00:15.55,Reel,,0,0,0,,{\fad(220,220)\blur0.8}הִיא שְׂמֵחָה אִתְּכֶם.
+Dialogue: 0,0:00:15.80,0:00:17.90,Reel,,0,0,0,,{\fad(220,220)\blur0.8}וְאַבָּא לוֹחֵשׁ לָכֶם מִלְּמַעְלָה:
+Dialogue: 0,0:00:18.35,0:00:23.50,Reel,,0,0,0,,{\fad(220,220)\blur0.8}״אַתָּה הַגַּאֲוָה שֶׁלִּי.״
+Dialogue: 0,0:00:23.95,0:00:26.20,Reel,,0,0,0,,{\fad(220,220)\blur0.8}רֶגַע אֶחָד. דִּמְעָה אַחַת.
+Dialogue: 0,0:00:26.60,0:00:27.90,Reel,,0,0,0,,{\fad(220,220)\blur0.8}וְכוּלָם מַרְגִּישִׁים\Nשֶׁהֵם אִתְּכֶם.
