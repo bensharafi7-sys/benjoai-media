@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Reel,Heebo,76,&H00F8F8FA,&H00F8F8FA,&H00201812,&HA0000000,0,0,0,0,100,100,0.5,0,1,2.6,1.5,2,90,90,390,177
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.30,Reel,,0,0,0,,{\fad(130,130)\blur0.4}עצרו רגע.
+Dialogue: 0,0:00:01.70,0:00:04.45,Reel,,0,0,0,,{\fad(130,130)\blur0.4}מה הייתם נותנים\Nכדי לשמוע אותם שוב
+Dialogue: 0,0:00:04.70,0:00:06.45,Reel,,0,0,0,,{\fad(130,130)\blur0.4}ביום הכי גדול שלכם.
+Dialogue: 0,0:00:06.80,0:00:08.00,Reel,,0,0,0,,{\fad(130,130)\blur0.4}מתחת לחופה.
+Dialogue: 0,0:00:08.35,0:00:09.60,Reel,,0,0,0,,{\fad(130,130)\blur0.4}הקול של אמא…‏
+Dialogue: 0,0:00:09.80,0:00:10.95,Reel,,0,0,0,,{\fad(130,130)\blur0.4}שאיננה כאן.
+Dialogue: 0,0:00:11.15,0:00:12.60,Reel,,0,0,0,,{\fad(130,130)\blur0.4}היא מברכת אתכם.
+Dialogue: 0,0:00:12.70,0:00:14.10,Reel,,0,0,0,,{\fad(130,130)\blur0.4}היא אוהבת אתכם.
+Dialogue: 0,0:00:14.20,0:00:15.55,Reel,,0,0,0,,{\fad(130,130)\blur0.4}היא שמחה איתכם.
+Dialogue: 0,0:00:15.80,0:00:17.90,Reel,,0,0,0,,{\fad(130,130)\blur0.4}ואבא לוחש לכם מלמעלה:
+Dialogue: 0,0:00:18.35,0:00:23.50,Reel,,0,0,0,,{\fad(130,130)\blur0.4}״אתה הגאווה שלי.״
+Dialogue: 0,0:00:23.95,0:00:26.20,Reel,,0,0,0,,{\fad(130,130)\blur0.4}רגע אחד. דמעה אחת.
+Dialogue: 0,0:00:26.60,0:00:27.90,Reel,,0,0,0,,{\fad(130,130)\blur0.4}וכולם מרגישים\Nשהם איתכם.
